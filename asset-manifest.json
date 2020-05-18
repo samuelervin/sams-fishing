@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sams-fishing/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sams-fishing/static/js/main.95af29cb.chunk.js",
-    "main.js.map": "/sams-fishing/static/js/main.95af29cb.chunk.js.map",
+    "main.js": "/sams-fishing/static/js/main.820ad117.chunk.js",
+    "main.js.map": "/sams-fishing/static/js/main.820ad117.chunk.js.map",
     "runtime-main.js": "/sams-fishing/static/js/runtime-main.f45ca91a.js",
     "runtime-main.js.map": "/sams-fishing/static/js/runtime-main.f45ca91a.js.map",
     "static/js/2.41eb4d49.chunk.js": "/sams-fishing/static/js/2.41eb4d49.chunk.js",
     "static/js/2.41eb4d49.chunk.js.map": "/sams-fishing/static/js/2.41eb4d49.chunk.js.map",
     "index.html": "/sams-fishing/index.html",
-    "precache-manifest.ad0423a492ba99bcd6eb37e8cf6c2fd6.js": "/sams-fishing/precache-manifest.ad0423a492ba99bcd6eb37e8cf6c2fd6.js",
+    "precache-manifest.d344b9727a4b7ad7e8a069153f5b020c.js": "/sams-fishing/precache-manifest.d344b9727a4b7ad7e8a069153f5b020c.js",
     "service-worker.js": "/sams-fishing/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/sams-fishing/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.41eb4d49.chunk.js.LICENSE.txt": "/sams-fishing/static/js/2.41eb4d49.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f45ca91a.js",
     "static/js/2.41eb4d49.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.95af29cb.chunk.js"
+    "static/js/main.820ad117.chunk.js"
   ]
 }
