@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60136aad8adb4f88e71169f91fceee06",
+    "revision": "0ac9bf511049dffb25645e92a9087efa",
     "url": "/sams-fishing/index.html"
   },
   {
-    "revision": "aa4fe01587b0d1a2bbcc",
+    "revision": "c3070eb8c7802b620a2e",
     "url": "/sams-fishing/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sams-fishing/static/js/2.41eb4d49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa4fe01587b0d1a2bbcc",
-    "url": "/sams-fishing/static/js/main.64446685.chunk.js"
+    "revision": "c3070eb8c7802b620a2e",
+    "url": "/sams-fishing/static/js/main.95af29cb.chunk.js"
   },
   {
     "revision": "3ed6e92226cd9d493455",
     "url": "/sams-fishing/static/js/runtime-main.f45ca91a.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/sams-fishing/static/media/logo.5d5d9eef.svg"
+    "revision": "715c9bbd20264cbe90946a5d47af3bfd",
+    "url": "/sams-fishing/static/media/SamToddler.715c9bbd.jpg"
   }
 ]);
