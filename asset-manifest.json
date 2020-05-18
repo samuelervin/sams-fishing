@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sams-fishing/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sams-fishing/static/js/main.64446685.chunk.js",
+    "main.js.map": "/sams-fishing/static/js/main.64446685.chunk.js.map",
+    "runtime-main.js": "/sams-fishing/static/js/runtime-main.f45ca91a.js",
+    "runtime-main.js.map": "/sams-fishing/static/js/runtime-main.f45ca91a.js.map",
+    "static/js/2.41eb4d49.chunk.js": "/sams-fishing/static/js/2.41eb4d49.chunk.js",
+    "static/js/2.41eb4d49.chunk.js.map": "/sams-fishing/static/js/2.41eb4d49.chunk.js.map",
+    "index.html": "/sams-fishing/index.html",
+    "precache-manifest.ae226e98ca716df288a7d28bbd45570f.js": "/sams-fishing/precache-manifest.ae226e98ca716df288a7d28bbd45570f.js",
+    "service-worker.js": "/sams-fishing/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sams-fishing/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.41eb4d49.chunk.js.LICENSE.txt": "/sams-fishing/static/js/2.41eb4d49.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sams-fishing/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f45ca91a.js",
+    "static/js/2.41eb4d49.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.64446685.chunk.js"
+  ]
+}
