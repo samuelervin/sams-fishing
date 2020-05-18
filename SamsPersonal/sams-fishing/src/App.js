@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './SamToddler.jpg';
 import './App.css';
 
 function App() {
@@ -7,17 +7,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Welcome to Sam's Fishing Site</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          There is more to come at a later date. Your gonna like it. 
+          <br/>
+          <br/>
+          <br/>
+          P.S. Yes that is me as a 4 or 5 year old in Star Wars OverAlls pointing a toy gun. 
+
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
       </header>
     </div>
   );
