@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/sams-fishing/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sams-fishing/static/js/main.dc294e24.chunk.js",
-    "main.js.map": "/sams-fishing/static/js/main.dc294e24.chunk.js.map",
+    "main.js": "/sams-fishing/static/js/main.0dba721b.chunk.js",
+    "main.js.map": "/sams-fishing/static/js/main.0dba721b.chunk.js.map",
     "runtime-main.js": "/sams-fishing/static/js/runtime-main.f45ca91a.js",
     "runtime-main.js.map": "/sams-fishing/static/js/runtime-main.f45ca91a.js.map",
-    "static/js/2.41eb4d49.chunk.js": "/sams-fishing/static/js/2.41eb4d49.chunk.js",
-    "static/js/2.41eb4d49.chunk.js.map": "/sams-fishing/static/js/2.41eb4d49.chunk.js.map",
+    "static/js/2.316da117.chunk.js": "/sams-fishing/static/js/2.316da117.chunk.js",
+    "static/js/2.316da117.chunk.js.map": "/sams-fishing/static/js/2.316da117.chunk.js.map",
     "index.html": "/sams-fishing/index.html",
-    "precache-manifest.8bef4fb1b54b18c6ea7a36765984fbaa.js": "/sams-fishing/precache-manifest.8bef4fb1b54b18c6ea7a36765984fbaa.js",
+    "precache-manifest.86348ee77c8a5b2ebafa85fca3c47674.js": "/sams-fishing/precache-manifest.86348ee77c8a5b2ebafa85fca3c47674.js",
     "service-worker.js": "/sams-fishing/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/sams-fishing/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.41eb4d49.chunk.js.LICENSE.txt": "/sams-fishing/static/js/2.41eb4d49.chunk.js.LICENSE.txt",
+    "static/js/2.316da117.chunk.js.LICENSE.txt": "/sams-fishing/static/js/2.316da117.chunk.js.LICENSE.txt",
     "static/media/SamToddler.jpg": "/sams-fishing/static/media/SamToddler.715c9bbd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f45ca91a.js",
-    "static/js/2.41eb4d49.chunk.js",
+    "static/js/2.316da117.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dc294e24.chunk.js"
+    "static/js/main.0dba721b.chunk.js"
   ]
 }
