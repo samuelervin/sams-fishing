@@ -88,3 +88,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 7. Now for your first deployment run the following in the terminal:
         npm run deploy
 8. Test your deployment in chrome by going to your homepage url.
+
+
+### I am Using REACT BOOTSTRAP cause I like BootStrap
+npm install react-bootstrap bootstrap
+See https://react-bootstrap.github.io/getting-started/introduction for more info on it. 
