@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sams-fishing/precache-manifest.52ecac1c34daa5fb65b7e2b3e85c679b.js"
+  "/sams-fishing/precache-manifest.3fc557bb943c4618d77d320e6f662b5d.js"
 );
 
 self.addEventListener('message', (event) => {

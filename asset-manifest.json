@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sams-fishing/static/css/main.42b4bb67.chunk.css",
-    "main.js": "/sams-fishing/static/js/main.94e52981.chunk.js",
-    "main.js.map": "/sams-fishing/static/js/main.94e52981.chunk.js.map",
+    "main.css": "/sams-fishing/static/css/main.9fb94330.chunk.css",
+    "main.js": "/sams-fishing/static/js/main.cde17b34.chunk.js",
+    "main.js.map": "/sams-fishing/static/js/main.cde17b34.chunk.js.map",
     "runtime-main.js": "/sams-fishing/static/js/runtime-main.f45ca91a.js",
     "runtime-main.js.map": "/sams-fishing/static/js/runtime-main.f45ca91a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/sams-fishing/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0145766b.chunk.js": "/sams-fishing/static/js/2.0145766b.chunk.js",
-    "static/js/2.0145766b.chunk.js.map": "/sams-fishing/static/js/2.0145766b.chunk.js.map",
+    "static/js/2.cd503714.chunk.js": "/sams-fishing/static/js/2.cd503714.chunk.js",
+    "static/js/2.cd503714.chunk.js.map": "/sams-fishing/static/js/2.cd503714.chunk.js.map",
     "index.html": "/sams-fishing/index.html",
-    "precache-manifest.52ecac1c34daa5fb65b7e2b3e85c679b.js": "/sams-fishing/precache-manifest.52ecac1c34daa5fb65b7e2b3e85c679b.js",
+    "precache-manifest.3fc557bb943c4618d77d320e6f662b5d.js": "/sams-fishing/precache-manifest.3fc557bb943c4618d77d320e6f662b5d.js",
     "service-worker.js": "/sams-fishing/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/sams-fishing/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.42b4bb67.chunk.css.map": "/sams-fishing/static/css/main.42b4bb67.chunk.css.map",
-    "static/js/2.0145766b.chunk.js.LICENSE.txt": "/sams-fishing/static/js/2.0145766b.chunk.js.LICENSE.txt"
+    "static/css/main.9fb94330.chunk.css.map": "/sams-fishing/static/css/main.9fb94330.chunk.css.map",
+    "static/js/2.cd503714.chunk.js.LICENSE.txt": "/sams-fishing/static/js/2.cd503714.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f45ca91a.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0145766b.chunk.js",
-    "static/css/main.42b4bb67.chunk.css",
-    "static/js/main.94e52981.chunk.js"
+    "static/js/2.cd503714.chunk.js",
+    "static/css/main.9fb94330.chunk.css",
+    "static/js/main.cde17b34.chunk.js"
   ]
 }
