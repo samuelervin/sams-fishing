@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e6c50755466636f353e1a67f096588e",
+    "revision": "041e82ea776544fa9e2af116fb5c2160",
     "url": "/sams-fishing/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sams-fishing/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "990653e13a77c5dda4cc",
-    "url": "/sams-fishing/static/css/main.9fb94330.chunk.css"
+    "revision": "9243e6ecd141927f687e",
+    "url": "/sams-fishing/static/css/main.abd97d05.chunk.css"
   },
   {
     "revision": "448cea230005107dfbaf",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sams-fishing/static/js/2.cd503714.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "990653e13a77c5dda4cc",
-    "url": "/sams-fishing/static/js/main.cde17b34.chunk.js"
+    "revision": "9243e6ecd141927f687e",
+    "url": "/sams-fishing/static/js/main.2cc4f23d.chunk.js"
   },
   {
     "revision": "3ed6e92226cd9d493455",
